@@ -1,3 +1,4 @@
+# TODO: file change monitor works inefficiently when too many files
 from pathlib import Path
 import pyperclip
 import time
